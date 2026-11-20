@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "can": {
+    "left": {
+      "serial": null,
+      "vid": "1d50",
+      "pid": "606f",
+      "bitrate": 1000000,
+      "mode": "listen_only"
+    },
+    "right": {
+      "serial": null,
+      "vid": "1d50",
+      "pid": "606f",
+      "bitrate": 1000000,
+      "mode": "listen_only"
+    }
+  },
+  "cameras": {
+    "left_wrist": {
+      "serial": null
+    },
+    "right_wrist": {
+      "serial": null
+    },
+    "overview": {
+      "serial": null
+    }
+  }
+}

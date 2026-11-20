@@ -1,0 +1,12 @@
+{
+  "width": 640,
+  "height": 480,
+  "fps": 30,
+  "jpeg_quality": 90,
+  "warmup_s": 2,
+  "startup_timeout_s": 12,
+  "camera_queue_frames": 32,
+  "can_queue_frames": 8192,
+  "can_silence_ms": 500,
+  "min_free_bytes": 1073741824
+}
